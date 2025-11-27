@@ -68,10 +68,19 @@ work:
     company_url: "https://publichealth.jhu.edu/center-for-public-health-and-human-rights"
     date_start: 2024-07-19
     date_end: ""
-    summary: >
-      Managing multi-country HIV datasets, leading population size estimation analyses,
-      developing R/Python/STATA tools for RDS and PSE, and coordinating international
-      research collaborations across Sub-Saharan Africa.
+    summary: > 
+     Managing and analyzing multi-country datasets under several NIH-funded grants led by [Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/1681/stefan-baral) and [Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao), including:
+
+- **Characterizing intersecting sexual, gender, and race-based stigmas affecting US transgender women and cisgender men who are sexually active with men**  
+  ([NIH RePORTER](https://reporter.nih.gov/project-details/10566277))
+- **Leveraging Big Data Science to Focus the HIV Response in Countries with Generalized HIV Epidemics**  
+  ([NIH RePORTER](https://reporter.nih.gov/project-details/10540953))
+- **Integrating the Visualization and Use of Stigma Data to Maximize the Impact of the Ending the HIV Epidemic Initiative**  
+  ([NIH RePORTER](https://reporter.nih.gov/project-details/10454173))
+- **Policy and implementation context of an unconditional cash transfer program to address homelessness and improve HIV service uptake among marginalized youth in the United States**  
+  ([NIH RePORTER](https://reporter.nih.gov/project-details/10975984))
+
+ 
 
   - position: "Data Analyst"
     company_name: "MPact Global Action for Gay Men's Health and Rights"
@@ -81,6 +90,8 @@ work:
     summary: >
       Developing approaches for estimating MSM and transgender populations using 
       social media and digital platforms across global settings.
+
+    
 
 skills:
   - name: Data Analysis & Tools
