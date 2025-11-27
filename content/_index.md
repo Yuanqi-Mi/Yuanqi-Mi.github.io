@@ -26,7 +26,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       text: |-
         I am a Research Data Analyst at the 
         [Center for Public Health and Human Rights](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)  
@@ -55,33 +55,43 @@ sections:
 
       
 
-        I collaborate with partners globally to strengthen infectious diseases response, improve data quality, and advance tools that support equitable resource allocation.  
-        Please reach out to collaborate!
+        My research involve collaborations with partners globally to strengthen infectious diseases response, improve data quality, and advance tools that support equitable resource allocation.  
 
+        If you have any questions or would like to collaborate, feel free to contact me! **Email:** [miyuanqi1123@gmail.com](mailto:miyuanqi1123@gmail.com)
     
     design:
       columns: '1'
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
 
-  - block: collection
-    content:
-      title: All Publications
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
----
+
+
+## Publications
+**[pubmed](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)**.
+
+
+My peer-reviewed research has been published in various international journals, including **[Social Science & Medicine](https://pubmed.ncbi.nlm.nih.gov/39817941/)**, **[PLOS Global Public Health](https://pubmed.ncbi.nlm.nih.gov/41183094/)**, and **[Journal of the International AIDS Society](https://pubmed.ncbi.nlm.nih.gov/38054578/)**.
+
+
+
+
+
+### Selected Publications 
+
+**1.** Mi Y, Wiginton JM, Murray SM, et al.  
+**Association Between Homelessness and Pre-exposure Prophylaxis Uptake Among Men Who Have Sex with Men: Results from the American Men's Internet Survey, 2017–2021.**  
+*Social Science & Medicine.* 2025. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/39817941/)**.
+
+**2.** Mi Y, Wang X, Zeng Y, et al.  
+**Incidence of Antiretroviral Therapy Regimen Modification and Associated Factors Among People Living with HIV in Beijing, China.**  
+*PLOS Global Public Health.* 2025. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/41183094/)**.
+
+**3.** Mi Y, Zhou M, Zeng Y, et al.  
+**Factors Associated With Delayed and Late Initiation of Antiretroviral Therapy Among Patients With HIV in Beijing, China, 2010–2020.**  
+*International Journal of Public Health.* 2023. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/37416802/)**.  
+
+**4.** Mi Y, Zeng Y, Wang P, Zhou M, Cheng F.  
+**Cost-Effectiveness of Pre-exposure Prophylaxis Among Men Who Have Sex with Men in China: A Systematic Review.**  
+*Frontiers in Public Health.* 2022. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.  
+
+
 
