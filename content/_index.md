@@ -13,7 +13,7 @@ sections:
       text: ''
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: resume.pdf
       headings:
         about: ''
         education: ''
