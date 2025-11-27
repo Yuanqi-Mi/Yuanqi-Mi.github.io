@@ -34,37 +34,28 @@ sections:
 
         My work focuses on:
 
+        • **Structural and social determinants of health**, including studies on  
+          [housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),  
+          [state-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),  
+          [sexual risk stratification](uploads/Abstract_WEPEC157_2024.pdf).
 
-        • **Structural and social determinants of health**, including work on 
-  [homelessness and HIV prevention](https://pubmed.ncbi.nlm.nih.gov/39817941/),
-  [state-level funding environment] (https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf/),
-  [sexual risk profiles among clients of FSW in South Africa (AIDS 2024)](uploads/Abstract_WEPEC157_2024.pdf).
+        • **Human Immunodeficiency Virus (HIV) prevention and treatment in China**, including  
+          [Antiretroviral therapy regimen modification among people living with HIV in Beijing](https://pubmed.ncbi.nlm.nih.gov/41183094/),  
+          [Delayed and late initiation of antiretroviral therapy](https://pubmed.ncbi.nlm.nih.gov/37416802/),  
+          [Cost-effectiveness of pre-exposure prophylaxis among men who have sex with men](https://pubmed.ncbi.nlm.nih.gov/35801237/).
 
-  
-         • **HIV prevention and treatment in China**, including work on  
-  [antiretroviral therapy regimen modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),  
-  [treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),  
-  [Cost-effectiveness of pre-exposure prophylaxis](https://pubmed.ncbi.nlm.nih.gov/35801237/).
+        • **Population size estimation** for key populations under  
+          [The Global Fund](https://www.theglobalfund.org/),
+          [MPact Global Action for Gay Men’s Health and Rights](https://mpactglobal.org/)
 
 
-        • **Population size estimation** of key populations for 
-          [The Global Fund](https://www.theglobalfund.org/)
-
-        • **Development of epidemiologic tools**, including  
-          **Respondent-driven sampling (RDS)**  
-          ([method overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2390692/))  
-          and weighting systems in  
-          [R],  
-          [Python], and  
-          [STATA]
-    
-        • Creator of the open-source RDS visualization and SS-PSE tool:  
-          👉 **REDCap RDS Tree Automata**  
+        • Creator of the open-source population size estimation and RDS visualization tool:  
+          👉 **REDCap RDS Tree Automata & SS-PSE**  
           https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/
 
-        • **Big data** integrating behavioral, clinical, and multi-country datasets
+        • **Large-scale, multi-country datasets**, integrating behavioral, clinical, and surveillance data across Africa and the United States.
 
-        I collaborate with partners globally to improve HIV surveillance, strengthen data quality, and develop tools that enhance equitable resource allocation.  
+        I collaborate with partners globally to strengthen HIV surveillance systems, improve data quality, and advance tools that support equitable resource allocation.  
         Please reach out to collaborate!
     design:
       columns: '1'
@@ -90,7 +81,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
-
-
 ---
+
