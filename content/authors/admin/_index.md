@@ -5,8 +5,7 @@ first_name: "Yuanqi"
 last_name: "Mi"
 pronouns: "she/her"
 
-status:
-  icon: 🚀
+
 
 superuser: true
 highlight_name: true
