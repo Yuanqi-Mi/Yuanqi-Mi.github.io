@@ -42,7 +42,7 @@ sections:
         • **HIV prevention and treatment in China**, including  
           [regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),  
           [delayed treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),  
-          [cost-effectiveness analysis](https://pubmed.ncbi.nlm.nih.gov/35801237/),
+          cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/35801237/), and [ART: ainuovirine versus efavirenz](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/)
 
 
         • **Population size estimation** for key populations under  
