@@ -10,14 +10,14 @@ date: "2025-01-01"
 
 # Optional: Add a thumbnail
 image:
-  caption: "REDCap RDS Tree Automata Interface"
+  caption: "REDCap RDS Tree Automata"
   focal_point: "center"
   preview_only: false
 ---
 
 ## Overview
 
-**REDCap RDS Tree Automata** is a research tool I built to support multi-country HIV surveillance systems, particularly studies using **Respondent-Driven Sampling (RDS)**.
+**REDCap RDS Tree Automata** is a research tool I built to support research for hidden populations, particularly studies using **Respondent-Driven Sampling (RDS)**.
 
 The tool enables:
 
@@ -51,19 +51,7 @@ https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/
 - **NetworkX** for graph construction  
 - **Plotly** for dynamic RDS tree visualization  
 - **R integration** via subprocess for SS-PSE modeling  
-- Supports **RDS**, and post-stratification workflows    
-- Lightweight deployment (cloud or local)
-
----
-
-## Impact
-
-This tool has streamlined analysis workflows for:
-
-- Population size estimation (PSE)
-- Weighting procedures for biobehavioral surveys
-- Field monitoring of recruitment progress
-- Generation of standardized deliverables for international stakeholders
+- Supports **RDS**workflows    
 
 
 ---
