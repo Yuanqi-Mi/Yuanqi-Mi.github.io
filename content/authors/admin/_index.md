@@ -18,7 +18,7 @@ address:
   street: "E6004, 615 N Wolfe Street"
   city: "Baltimore"
   region: "MD"
-  postcode: "21231"
+  postcode: "21205"
   country: "United States"
 
 contact_links:
@@ -51,18 +51,15 @@ interests:
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
     institution: "Johns Hopkins Bloomberg School of Public Health"
-    institution_url: "https://publichealth.jhu.edu"
+    institution_url: "httpspublichealth.jhu.edu"
     date_start: 2022-08-28
     date_end: 2024-05-17
-
 
   - area: "BS Nursing Science"
     institution: "Peking Union Medical College & Chinese Academy of Medical Sciences"
     institution_url: "https://www.pumc.edu.cn/"
     date_start: 2018-08-24
     date_end: 2022-06-30
- 
-
 
 work:
   - position: "Research Data Analyst"
@@ -72,20 +69,12 @@ work:
     date_end: ""
     summary: >
       Managing and analyzing multi-country datasets across NIH-funded grants led by
-      [Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/1681/stefan-baral) and [Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao).  
-      including:
-
-      • **Characterizing intersecting sexual, gender, and race-based stigmas in US transgender women and cisgender men who have sex with men**  
-        NIH RePORTER: https://reporter.nih.gov/project-details/10566277
-
-      • **Leveraging Big Data Science to focus the HIV response in countries with generalized HIV epidemics**  
-        NIH RePORTER: https://reporter.nih.gov/project-details/10540953
-
-      • **Integrating visualization and stigma analytics to support the Ending the HIV Epidemic initiative**  
-        NIH RePORTER: https://reporter.nih.gov/project-details/10454173
-
-      • **Policy and implementation context of an unconditional cash transfer program to address homelessness and improve HIV service uptake among marginalized youth in the United States**  
-        NIH RePORTER: https://reporter.nih.gov/project-details/10975984
+      Dr. Stefan Baral and Dr. Amrita Rao, including:
+      
+      • Characterizing intersecting sexual, gender, and race-based stigmas in US transgender women and cisgender men who have sex with men  
+      • Leveraging Big Data Science to focus the HIV response in countries with generalized HIV epidemics  
+      • Integrating visualization and stigma analytics to support the Ending the HIV Epidemic initiative  
+      • Policy and implementation context of an unconditional cash transfer program for marginalized youth
 
   - position: "Data Analyst"
     company_name: "MPact Global Action for Gay Men's Health and Rights"
@@ -107,8 +96,6 @@ skills:
         percent: 85
 
   - name: Global Health & Epidemiology
-    color: "#eeac02"
-    color_border: "#f0bf23"
     items:
       - name: HIV Epidemiology
         percent: 95
@@ -132,13 +119,10 @@ awards:
     icon: hero/academic-cap
     summary: >
       Awarded competitive scholarship to present research at AIDS 2024.
-
 ---
 
 Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
 Her research focuses on HIV prevention and treatment, structural determinants of health,
-population size estimation, and respondent-driven sampling methodology. She works closely
-with global partners across Sub-Saharan Africa to strengthen HIV surveillance and analytic capacity.
-
+population size estimation, and respondent-driven sampling methodology.
 
 
