@@ -42,56 +42,58 @@ sections:
         • **HIV prevention and treatment in China**, including  
           [regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),  
           [delayed treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),  
-          cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/35801237/), and [ART: ainuovirine versus efavirenz](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/)
-
+          cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/35801237/),  
+          and [ART: ainuovirine versus efavirenz](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/)
 
         • **Population size estimation** for key populations under  
           [The Global Fund](https://www.theglobalfund.org/),
           [MPact Global Action for Gay Men’s Health and Rights](https://mpactglobal.org/)
 
-
         • Creator of the open-source population size estimation and RDS visualization tool:  
           [REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/)
 
-      
+        My research involves collaborations with partners globally to strengthen infectious disease response, 
+        improve data quality, and advance tools that support equitable resource allocation.  
 
-        My research involve collaborations with partners globally to strengthen infectious diseases response, improve data quality, and advance tools that support equitable resource allocation.  
+        If you have any questions or would like to collaborate, feel free to contact me!  
+        **Email:** [miyuanqi1123@gmail.com](mailto:miyuanqi1123@gmail.com)
 
-        If you have any questions or would like to collaborate, feel free to contact me! **Email:** [miyuanqi1123@gmail.com](mailto:miyuanqi1123@gmail.com)
-    
     design:
       columns: '1'
+---
+
+## Publications  
+**Full list on PubMed:**  
+**https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/**
+
+My peer-reviewed research has been published in international journals such as  
+**[Social Science & Medicine](https://pubmed.ncbi.nlm.nih.gov/39817941/)**,  
+**[PLOS Global Public Health](https://pubmed.ncbi.nlm.nih.gov/41183094/)**, and  
+**[Journal of the International AIDS Society](https://pubmed.ncbi.nlm.nih.gov/38054578/)**.
 
 ---
 
-
-## Publications
-**[pubmed](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)**.
-
-
-My peer-reviewed research has been published in various international journals, including **[Social Science & Medicine](https://pubmed.ncbi.nlm.nih.gov/39817941/)**, **[PLOS Global Public Health](https://pubmed.ncbi.nlm.nih.gov/41183094/)**, and **[Journal of the International AIDS Society](https://pubmed.ncbi.nlm.nih.gov/38054578/)**.
-
-
-
-
-
-### Selected Publications 
+### Selected Publications
 
 **1.** Mi Y, Wiginton JM, Murray SM, et al.  
-**Association Between Homelessness and Pre-exposure Prophylaxis Uptake Among Men Who Have Sex with Men: Results from the American Men's Internet Survey, 2017–2021.**  
-*Social Science & Medicine.* 2025. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/39817941/)**.
+**Association Between Homelessness and Pre-exposure Prophylaxis Uptake Among Men Who Have Sex with Men.**  
+*Social Science & Medicine.* 2025.  
+**[pubmed](https://pubmed.ncbi.nlm.nih.gov/39817941/)**.
 
 **2.** Mi Y, Wang X, Zeng Y, et al.  
-**Incidence of Antiretroviral Therapy Regimen Modification and Associated Factors Among People Living with HIV in Beijing, China.**  
-*PLOS Global Public Health.* 2025. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/41183094/)**.
+**Incidence of Antiretroviral Therapy Regimen Modification Among People Living with HIV in Beijing, China.**  
+*PLOS Global Public Health.* 2025.  
+**[pubmed](https://pubmed.ncbi.nlm.nih.gov/41183094/)**.
 
 **3.** Mi Y, Zhou M, Zeng Y, et al.  
-**Factors Associated With Delayed and Late Initiation of Antiretroviral Therapy Among Patients With HIV in Beijing, China, 2010–2020.**  
-*International Journal of Public Health.* 2023. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/37416802/)**.  
+**Factors Associated With Delayed and Late Initiation of ART in Beijing, China.**  
+*International Journal of Public Health.* 2023.  
+**[pubmed](https://pubmed.ncbi.nlm.nih.gov/37416802/)**.
 
 **4.** Mi Y, Zeng Y, Wang P, Zhou M, Cheng F.  
-**Cost-Effectiveness of Pre-exposure Prophylaxis Among Men Who Have Sex with Men in China: A Systematic Review.**  
-*Frontiers in Public Health.* 2022. **[pubmed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.  
+**Cost-Effectiveness of PrEP Among Men Who Have Sex with Men in China.**  
+*Frontiers in Public Health.* 2022.  
+**[pubmed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.
 
 
 
