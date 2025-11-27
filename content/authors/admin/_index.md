@@ -1,5 +1,5 @@
 ---
-title: "Yuanqi Mi"
+title: "Yuanqi Mi 米元齐" 
 
 first_name: "Yuanqi"
 last_name: "Mi"
