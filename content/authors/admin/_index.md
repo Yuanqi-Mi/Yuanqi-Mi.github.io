@@ -1,5 +1,5 @@
 ---
-title: "Yuanqi Mi 米元齐" 
+title: "Yuanqi Mi" 
 
 first_name: "Yuanqi"
 last_name: "Mi"
@@ -126,4 +126,6 @@ Her research focuses on HIV prevention and treatment, structural determinants of
 population size estimation, and respondent-driven sampling methodology. She works closely
 with international partners across Sub-Saharan Africa to improve HIV program analytics and
 epidemiologic methods.
+
+
 
