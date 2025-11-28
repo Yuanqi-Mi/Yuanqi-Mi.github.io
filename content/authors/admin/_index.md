@@ -80,7 +80,7 @@ education:
     date_end: 2024-05-17
     summary: >
       **[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**
-
+      **[thesis](https://jscholarship.library.jhu.edu/items/24998ff1-0db5-4706-a443-3f9c1780390c)**
   - area: "BS Nursing Science"
     institution: "Peking Union Medical College"
     institution_url: "https://www.pumc.edu.cn/"
@@ -93,31 +93,51 @@ education:
 # WORK EXPERIENCE — fully Markdown functional
 # ===========================
 work:
-  - position: "Research Data Analyst"
-    date_start: 2024-07-19
-    date_end: ""
-    summary: >
-      **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
-      
-      Managing and analyzing multi-country datasets across NIH-funded grants led by  
-      **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
-      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
-      
-      Grants include:  
-      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/11400278)**  
-      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/11099988)**  
-      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/11095741)**  
-      • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
+  title: "Selected Experience"
+  items:
+    - position: "Research Data Analyst"
+      date_start: 2024-07-19
+      date_end: ""
+      summary: >
+        **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
+        
+        Managing and analyzing multi-country datasets across NIH-funded grants led by  
+        **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
+        **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
+        
+        Grants include:  
+        • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/11400278)**  
+        • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/11099988)**  
+        • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/11095741)**  
+        • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
-  - position: "Data Analyst"
-    date_start: 2025-07-01
-    date_end: ""
-    summary: >
-      **[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/)**  
-      
-      Developing methodologies for estimating MSM and transgender populations  
-      using social media, digital platforms, and app-based behavioral data.
+    - position: "Data Analyst"
+      date_start: 2025-07-01
+      date_end: ""
+      summary: >
+        **[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/)**  
+        
+        Developing methodologies for estimating MSM and transgender populations  
+        using social media, digital platforms, and app-based behavioral data.
 
+    - position: "Research Assistant"
+      date_start: 2021-04-21
+      date_end: 2023-06-21
+      summary: >
+        **[Tsinghua University Vanke School of Public Health](https://vsph.tsinghua.edu.cn/en/)**  
+        
+        Managing and analyzing 20,000+ electronic health records from Beijing CDC, supervised by  
+        **[Dr. Feng Cheng](https://vsph.tsinghua.edu.cn/en/info/1010/1052.htm)**.  
+        
+        Grant: Evaluation study on HIV 90-90-90 strategies in Beijing.
+
+    - position: "Practical Nurse"
+      date_start: 2021-08-15
+      date_end: 2022-05-21
+      summary: >
+        **[Peking Union Medical College Hospital](https://www.pumch.cn/en/introduction.html)**
+    
+    
 # ===========================
 # SKILLS
 # ===========================
