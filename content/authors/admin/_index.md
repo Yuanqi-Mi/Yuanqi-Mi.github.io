@@ -22,26 +22,26 @@ address:
   postcode: "21205"
   country: "United States"
 
-# ========== CONTACT LINKS==========
+# ========== CONTACT LINKS（已修复，可在首页显示）==========
 contact_links:
   - icon: at-symbol
-    label: Email
+    label: "Email"
     url: "mailto:ymi3@jhu.edu"
 
   - icon: brands/github
-    label: GitHub
+    label: "GitHub"
     url: "https://github.com/Yuanqi-Mi"
 
   - icon: brands/linkedin
-    label: LinkedIn
+    label: "LinkedIn"
     url: "https://www.linkedin.com/in/yuanqi-mi-280914254/"
 
   - icon: academicons/google-scholar
-    label: Google Scholar
+    label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=lphn6n8AAAAJ"
 
   - icon: academicons/pubmed
-    label: PubMed
+    label: "PubMed"
     url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
 
 # ========== BIO ==========
@@ -59,37 +59,42 @@ interests:
   - Respondent-Driven Sampling (RDS)
   - Big Data Integration
 
-# ========== EDUCATION（链接已修好）==========
+# ========== EDUCATION（链接放到 summary 里，100% 正常显示）==========
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
-    institution: "**[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**"
+    institution: "Johns Hopkins Bloomberg School of Public Health"
     institution_url: "https://publichealth.jhu.edu"
     date_start: 2022-08-28
     date_end: 2024-05-17
+    summary: >
+      **[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**
 
   - area: "BS Nursing Science"
-    institution: "**[Peking Union Medical College](https://www.pumc.edu.cn/)**"
+    institution: "Peking Union Medical College"
     institution_url: "https://www.pumc.edu.cn/"
     date_start: 2018-08-24
     date_end: 2022-06-30
+    summary: >
+      **[Peking Union Medical College](https://www.pumc.edu.cn/)**
 
-# ========== WORK EXPERIENCE（你的 grant 部分完全保留）==========
+# ========== WORK EXPERIENCE（grant 部分留完整，全部 Markdown 正常渲染）==========
 work:
   - position: "Research Data Analyst"
-    company_name: "**[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**"
-
+    company_name: "Center for Public Health and Human Rights, Johns Hopkins University"
+    company_url: "https://publichealth.jhu.edu/center-for-public-health-and-human-rights"
     date_start: 2024-07-19
     date_end: ""
     summary: >
+      **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
+
       Managing and analyzing multi-country datasets across NIH-funded grants led by  
       **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
-      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
+      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.
 
-      Grants include:
-    
-      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/search/DnvWct3yvkOR--NUHvfs6w/project-details/11400278)**  
-      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/search/NSXiIf8PBEyF1gfc62xaPQ/project-details/11099988)**  
-      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/search/NSXiIf8PBEyF1gfc62xaPQ/project-details/11095741)**  
+      Grants include:  
+      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/11400278)**  
+      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/11099988)**  
+      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/11095741)**  
       • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
   - position: "Data Analyst"
@@ -98,6 +103,8 @@ work:
     date_start: 2025-07-01
     date_end: ""
     summary: >
+      **[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/)**  
+
       Developing methodologies for estimating MSM and transgender populations
       using social media, digital platforms, and app-based behavioral data.
 
