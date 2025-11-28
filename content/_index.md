@@ -37,7 +37,7 @@ sections:
         • **Structural and social determinants of health**, including studies on  
           [housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),  
           [state-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),  
-          [sexual risk stratification](uploads/Abstract_WEPEC157_2024.pdf).
+          [sexual risk stratification](Abstract_WEPEC157_2024.pdf).
 
         • **HIV prevention and treatment in China**, including  
           [regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),  
