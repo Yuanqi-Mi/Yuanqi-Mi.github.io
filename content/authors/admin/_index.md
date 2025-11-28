@@ -63,8 +63,7 @@ education:
 
 work:
   - position: "Research Data Analyst"
-    company_name: "Center for Public Health and Human Rights, Johns Hopkins University"
-    company_url: "https://publichealth.jhu.edu/center-for-public-health-and-human-rights"
+    • **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**
     date_start: 2024-07-19
     date_end: ""
     summary: >
