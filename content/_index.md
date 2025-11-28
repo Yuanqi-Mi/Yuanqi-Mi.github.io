@@ -8,9 +8,7 @@ design:
 
 sections:
 
-  # =======================
-  #   1) HOME TOP AREA
-  # =======================
+  # 顶部简介 + CV 按钮
   - block: resume-biography-3
     content:
       username: admin
@@ -28,10 +26,7 @@ sections:
         size: medium
         shape: circle
 
-
-  # =======================
-  #   2) MY RESEARCH AREA
-  # =======================
+  # 我的研究
   - block: markdown
     content:
       title: 'My Research'
@@ -44,44 +39,52 @@ sections:
 
         ## Structural and social determinants of health
 
-        | <img src="/housingplot.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
-        **Housing and HIV service delivery outcomes**  
-        [PubMed](https://pubmed.ncbi.nlm.nih.gov/39817941/)  
+        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
+          <img src="/housingplot.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
+          <div>
+            <p><strong>Housing and HIV service delivery outcomes</strong><br>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/39817941/">PubMed</a></p>
 
-        **State-level funding environments**  
-        [Poster PDF](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf)
+            <p><strong>State-level funding environments</strong><br>
+            <a href="https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf">Poster PDF</a></p>
 
-        **Sexual risk stratification**  
-        [Abstract PDF](Abstract_WEPEC157_2024.pdf) |
-        | --- | --- |
-
+            <p><strong>Sexual risk stratification</strong><br>
+            <a href="/Abstract_WEPEC157_2024.pdf">Abstract PDF</a></p>
+          </div>
+        </div>
 
         ## HIV prevention and treatment in China
 
-        | <img src="/regimen.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
-        **Regimen durability and modification**  
-        [PubMed](https://pubmed.ncbi.nlm.nih.gov/41183094/)  
+        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
+          <img src="/regimen.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
+          <div>
+            <p><strong>Regimen durability and modification</strong><br>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/41183094/">PubMed</a></p>
 
-        **Delayed treatment initiation**  
-        [PubMed](https://pubmed.ncbi.nlm.nih.gov/37416802/)  
+            <p><strong>Delayed treatment initiation</strong><br>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/37416802/">PubMed</a></p>
 
-        Cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/35801237/)  
+            <p><strong>Cost-effectiveness analysis of PrEP</strong><br>
+            <a href="https://pubmed.ncbi.nlm.nih.gov/35801237/">PubMed</a></p>
 
-        **ART: ainuovirine versus efavirenz**  
-        [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/) |
-        | --- | --- |
-
+            <p><strong>ART: ainuovirine versus efavirenz</strong><br>
+            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/">Full text</a></p>
+          </div>
+        </div>
 
         ## Population size estimation of key populations
 
-        | <img src="/sspse.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
-        **Population size estimation for**  
-        [The Global Fund](https://www.theglobalfund.org/)  
-        [MPact Global Action for Gay Men’s Health and Rights](https://mpactglobal.org/)  
+        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
+          <img src="/sspse.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
+          <div>
+            <p><strong>Population size estimation for</strong><br>
+            <a href="https://www.theglobalfund.org/">The Global Fund</a><br>
+            <a href="https://mpactglobal.org/">MPact Global Action for Gay Men’s Health and Rights</a></p>
 
-        **Creator of the open-source RDS/PSE visualization tool**  
-        [REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/) |
-        | --- | --- |
+            <p><strong>Creator of the open-source RDS/PSE visualization tool</strong><br>
+            <a href="https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/">REDCap RDS Tree Automata &amp; SS-PSE</a></p>
+          </div>
+        </div>
 
         My research involves collaborations with partners globally to strengthen infectious disease response, 
         improve data quality, and advance tools that support equitable resource allocation.  
@@ -92,10 +95,7 @@ sections:
     design:
       columns: '1'
 
-
-  # =======================
-  #   3) PUBLICATIONS
-  # =======================
+  # Publications
   - block: markdown
     content:
       title: "Publications"
@@ -133,6 +133,7 @@ sections:
         **[PubMed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.
 
 ---
+
 
 
 
