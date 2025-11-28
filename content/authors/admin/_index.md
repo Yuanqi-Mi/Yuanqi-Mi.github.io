@@ -27,24 +27,30 @@ address:
 # ===========================
 contact_links:
   - icon: at-symbol
+    icon_pack: heroicons
     label: "Email"
     url: "mailto:ymi3@jhu.edu"
 
-  - icon: brands/github
+  - icon: github
+    icon_pack: fab
     label: "GitHub"
     url: "https://github.com/Yuanqi-Mi"
 
-  - icon: brands/linkedin
+  - icon: linkedin
+    icon_pack: fab
     label: "LinkedIn"
     url: "https://www.linkedin.com/in/yuanqi-mi-280914254/"
 
-  - icon: academicons/google-scholar
+  - icon: google-scholar
+    icon_pack: ai
     label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=lphn6n8AAAAJ"
 
-  - icon: academicons/pubmed
+  - icon: pubmed
+    icon_pack: ai
     label: "PubMed"
     url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
+
 
 # ===========================
 # BIO
@@ -152,7 +158,6 @@ awards:
 
 ---
 
-Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
-Her research focuses on HIV prevention and treatment, structural determinants of health,  
-population size estimation, and respondent-driven sampling methodology.
+Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health. 
+Her research focuses on HIV prevention and treatment, structural determinants of health, population size estimation, and respondent-driven sampling methodology.
 
