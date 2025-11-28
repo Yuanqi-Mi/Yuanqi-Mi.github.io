@@ -23,31 +23,22 @@ address:
 
 contact_links:
   - icon: at-symbol
-    label: "Email"
     url: "mailto:ymi3@jhu.edu"
-
-  - icon: academicons/google-scholar
-    label: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=lphn6n8AAAAJ"
-
-  - icon: academicons/pubmed
-    label: "PubMed"
-    url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
-
+    label: "Email"
   - icon: brands/github
-    label: "GitHub"
     url: "https://github.com/Yuanqi-Mi"
-
   - icon: brands/linkedin
-    label: "LinkedIn"
     url: "https://www.linkedin.com/in/yuanqi-mi-280914254/"
+  - icon: academicons/google-scholar
+    url: "https://scholar.google.com/citations?user=lphn6n8AAAAJ"
+  - icon: academicons/pubmed
+    url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
 
 bio: >
   Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
   My work focuses on HIV prevention and treatment, structural determinants of health,
-  population size estimation, respondent-driven sampling (RDS), and modern epidemiologic
-  approaches applied to large-scale behavioral and biological datasets across
-  Sub-Saharan Africa.
+  population size estimation, RDS methodology, and modern epidemiologic approaches
+  applied to large-scale datasets across Sub-Saharan Africa.
 
 interests:
   - Infectious Disease Epidemiology
@@ -64,7 +55,7 @@ education:
     date_end: 2024-05-17
 
   - area: "BS Nursing Science"
-    institution: "[Peking Union Medical College & Chinese Academy of Medical Sciences](https://www.pumc.edu.cn/)"
+    institution: "[Peking Union Medical College & Chinese Academy of Medical Sciences](https://www.pumc.edu.cn)"
     date_start: 2018-08-24
     date_end: 2022-06-30
 
@@ -74,16 +65,16 @@ work:
     date_start: 2024-07-19
     date_end: ""
     summary: >
-      Managing and analyzing multi-country HIV datasets across NIH-funded grants led by  
+      Managing and analyzing multi-country datasets across NIH-funded grants led by  
       **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/1681/stefan-baral)** and  
-      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
-      
+      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.
+
       Grants include:
-      
+
       • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/10566277)**  
       • **[Leveraging Big Data Science to focus the HIV response in generalized epidemics](https://reporter.nih.gov/project-details/10540953)**  
-      • **[Integrating visualization and stigma analytics to support the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/10454173)**  
-      • **[Unconditional cash transfer program for marginalized youth experiencing homelessness](https://reporter.nih.gov/project-details/10975984)**
+      • **[Integrating visualization and stigma analytics for Ending the HIV Epidemic](https://reporter.nih.gov/project-details/10454173)**  
+      • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
   - position: "Data Analyst"
     company_name: "[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/)"
@@ -126,4 +117,5 @@ awards:
 Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
 Her research focuses on HIV prevention and treatment, structural determinants of health,
 population size estimation, and respondent-driven sampling methodology.
+
 
