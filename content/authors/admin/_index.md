@@ -22,7 +22,9 @@ address:
   postcode: "21205"
   country: "United States"
 
-# ========== CONTACT LINKS（已修复，可在首页显示）==========
+# ===========================
+# CONTACT LINKS — will show on homepage
+# ===========================
 contact_links:
   - icon: at-symbol
     label: "Email"
@@ -44,11 +46,13 @@ contact_links:
     label: "PubMed"
     url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
 
-# ========== BIO ==========
+# ===========================
+# BIO
+# ===========================
 bio: >
-  Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
-  My work focuses on HIV prevention and treatment, structural determinants of health,
-  population size estimation, RDS methodology, and modern epidemiologic approaches
+  Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
+  My work focuses on HIV prevention and treatment, structural determinants of health,  
+  population size estimation, RDS methodology, and modern epidemiologic approaches  
   applied to large-scale datasets across Sub-Saharan Africa.
 
 interests:
@@ -59,7 +63,9 @@ interests:
   - Respondent-Driven Sampling (RDS)
   - Big Data Integration
 
-# ========== EDUCATION（链接放到 summary 里，100% 正常显示）==========
+# ===========================
+# EDUCATION — LINKS IN SUMMARY (correct rendering)
+# ===========================
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
     institution: "Johns Hopkins Bloomberg School of Public Health"
@@ -77,7 +83,9 @@ education:
     summary: >
       **[Peking Union Medical College](https://www.pumc.edu.cn/)**
 
-# ========== WORK EXPERIENCE（grant 部分留完整，全部 Markdown 正常渲染）==========
+# ===========================
+# WORK EXPERIENCE — fully Markdown functional
+# ===========================
 work:
   - position: "Research Data Analyst"
     company_name: "Center for Public Health and Human Rights, Johns Hopkins University"
@@ -86,11 +94,11 @@ work:
     date_end: ""
     summary: >
       **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
-
+      
       Managing and analyzing multi-country datasets across NIH-funded grants led by  
       **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
-      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.
-
+      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
+      
       Grants include:  
       • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/11400278)**  
       • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/11099988)**  
@@ -104,11 +112,13 @@ work:
     date_end: ""
     summary: >
       **[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/)**  
-
-      Developing methodologies for estimating MSM and transgender populations
+      
+      Developing methodologies for estimating MSM and transgender populations  
       using social media, digital platforms, and app-based behavioral data.
 
-# ========== SKILLS ==========
+# ===========================
+# SKILLS
+# ===========================
 skills:
   - name: Data Analysis & Tools
     items:
@@ -122,6 +132,9 @@ skills:
       - name: RDS & Population Size Estimation
       - name: Survey Design & Implementation
 
+# ===========================
+# LANGUAGES
+# ===========================
 languages:
   - name: Chinese (native)
     percent: 100
@@ -130,6 +143,9 @@ languages:
   - name: French (beginner)
     percent: 20
 
+# ===========================
+# AWARDS
+# ===========================
 awards:
   - title: "Scholarship Recipient"
     awarder: "27th International AIDS Conference, International AIDS Society"
@@ -137,10 +153,10 @@ awards:
     icon: hero/academic-cap
     summary: >
       Awarded competitive scholarship to present research at AIDS 2024.
+
 ---
 
-Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
-Her research focuses on HIV prevention and treatment, structural determinants of health,
+Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
+Her research focuses on HIV prevention and treatment, structural determinants of health,  
 population size estimation, and respondent-driven sampling methodology.
-
 
