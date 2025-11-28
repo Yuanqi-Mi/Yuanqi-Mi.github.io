@@ -88,8 +88,6 @@ education:
 # ===========================
 work:
   - position: "Research Data Analyst"
-    company_name: "Center for Public Health and Human Rights, Johns Hopkins University"
-    company_url: "https://publichealth.jhu.edu/center-for-public-health-and-human-rights"
     date_start: 2024-07-19
     date_end: ""
     summary: >
@@ -106,8 +104,6 @@ work:
       • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
   - position: "Data Analyst"
-    company_name: "MPact Global Action for Gay Men's Health and Rights"
-    company_url: "https://mpactglobal.org/"
     date_start: 2025-07-01
     date_end: ""
     summary: >
