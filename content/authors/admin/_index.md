@@ -62,13 +62,13 @@ interests:
 # ========== EDUCATION（链接已修好）==========
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
-    institution: "Johns Hopkins Bloomberg School of Public Health"
+    institution: "**[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**"
     institution_url: "https://publichealth.jhu.edu"
     date_start: 2022-08-28
     date_end: 2024-05-17
 
   - area: "BS Nursing Science"
-    institution: "Peking Union Medical College & Chinese Academy of Medical Sciences"
+    institution: "**[Peking Union Medical College](https://www.pumc.edu.cn/)**"
     institution_url: "https://www.pumc.edu.cn/"
     date_start: 2018-08-24
     date_end: 2022-06-30
@@ -76,8 +76,8 @@ education:
 # ========== WORK EXPERIENCE（你的 grant 部分完全保留）==========
 work:
   - position: "Research Data Analyst"
-    company_name: "Center for Public Health and Human Rights, Johns Hopkins University"
-    company_url: "https://publichealth.jhu.edu/center-for-public-health-and-human-rights"
+    company_name: "**[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**"
+
     date_start: 2024-07-19
     date_end: ""
     summary: >
