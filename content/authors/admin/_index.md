@@ -91,7 +91,6 @@ education:
 # WORK EXPERIENCE
 # ===========================
 work:
-  title: "Selected Experience"
   items:
     - position: "Research Data Analyst"
       date_start: 2024-07-19
