@@ -59,7 +59,7 @@ sections:
 
         ## Open-source RDS & SS-PSE tools
 
-        | <img src="recruitment_tree.gif" width="160" style="border-radius:8px;"> | Creator of the open-source tool:<br>[REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/). |
+        | <img src="sspse_example.png" width="160" style="border-radius:8px;"> | Creator of the open-source tool:<br>[REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/). |
         | --- | --- |
 
         ---
