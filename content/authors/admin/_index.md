@@ -51,7 +51,7 @@ interests:
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
     institution: "Johns Hopkins Bloomberg School of Public Health"
-    institution_url: "httpspublichealth.jhu.edu"
+    institution_url: "https://publichealth.jhu.edu"
     date_start: 2022-08-28
     date_end: 2024-05-17
 
@@ -69,12 +69,21 @@ work:
     date_end: ""
     summary: >
       Managing and analyzing multi-country datasets across NIH-funded grants led by
-      Dr. Stefan Baral and Dr. Amrita Rao, including:
-      
+      <a href="https://publichealth.jhu.edu/faculty/1681/stefan-baral" target="_blank">Dr. Stefan Baral</a>
+      and
+      <a href="https://publichealth.jhu.edu/faculty/4433/amrita-rao" target="_blank">Dr. Amrita Rao</a>, including:
+
       • Characterizing intersecting sexual, gender, and race-based stigmas in US transgender women and cisgender men who have sex with men  
+        (<a href="https://reporter.nih.gov/project-details/10566277" target="_blank">NIH RePORTER</a>)  
+
       • Leveraging Big Data Science to focus the HIV response in countries with generalized HIV epidemics  
+        (<a href="https://reporter.nih.gov/project-details/10540953" target="_blank">NIH RePORTER</a>)  
+
       • Integrating visualization and stigma analytics to support the Ending the HIV Epidemic initiative  
-      • Policy and implementation context of an unconditional cash transfer program for marginalized youth
+        (<a href="https://reporter.nih.gov/project-details/10454173" target="_blank">NIH RePORTER</a>)  
+
+      • Policy and implementation context of an unconditional cash transfer program for marginalized youth  
+        (<a href="https://reporter.nih.gov/project-details/10975984" target="_blank">NIH RePORTER</a>)
 
   - position: "Data Analyst"
     company_name: "MPact Global Action for Gay Men's Health and Rights"
