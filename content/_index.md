@@ -38,21 +38,21 @@ sections:
 
         ## Structural and social determinants of health
 
-        | <img src="/housingplot.tiff" width="160" style="border-radius:8px;"> | including studies on<br>[Housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),<br>[State-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),<br>[Sexual risk stratification](Abstract_WEPEC157_2024.pdf). |
+        | <img src="/housingplot.png" width="160" style="border-radius:8px;"> | including studies on<br>[Housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),<br>[State-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),<br>[Sexual risk stratification](Abstract_WEPEC157_2024.pdf). |
         | --- | --- |
 
         ---
 
         ## HIV prevention and treatment in China
 
-        | <img src="/regimen.tiff" width="160" style="border-radius:8px;"> | [Regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),<br>[Delayed treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),<br>Cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/37416802/) and [ART](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/). |
+        | <img src="/regimen.png" width="160" style="border-radius:8px;"> | [Regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),<br>[Delayed treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),<br>Cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/37416802/) and [ART](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/). |
         | --- | --- |
 
         ---
 
         ## Population size estimation
 
-        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | **Population size estimation** for<br>[The Global Fund](https://www.theglobalfund.org/),<br>[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
+        | <img src="/sspse.png" width="160" style="border-radius:8px;"> | **Population size estimation** for<br>[The Global Fund](https://www.theglobalfund.org/),<br>[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
         | --- | --- |
 
         ---
