@@ -1,7 +1,5 @@
 ---
 title: "Yuanqi Mi"
-authors:
-- admin
 superuser: true
 highlight_name: true
 
@@ -23,7 +21,7 @@ address:
   country: "United States"
 
 # ===========================
-# CONTACT LINKS — will show on homepage
+# CONTACT LINKS — appear on homepage
 # ===========================
 contact_links:
   - icon: at-symbol
@@ -51,7 +49,6 @@ contact_links:
     label: "PubMed"
     url: "https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/"
 
-
 # ===========================
 # BIO
 # ===========================
@@ -70,7 +67,7 @@ interests:
   - Big Data Integration
 
 # ===========================
-# EDUCATION — LINKS IN SUMMARY (correct rendering)
+# EDUCATION
 # ===========================
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
@@ -79,8 +76,9 @@ education:
     date_start: 2022-08-28
     date_end: 2024-05-17
     summary: >
-      **[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**
+      **[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**  
       **[thesis](https://jscholarship.library.jhu.edu/items/24998ff1-0db5-4706-a443-3f9c1780390c)**
+
   - area: "BS Nursing Science"
     institution: "Peking Union Medical College"
     institution_url: "https://www.pumc.edu.cn/"
@@ -90,7 +88,7 @@ education:
       **[Peking Union Medical College](https://www.pumc.edu.cn/)**
 
 # ===========================
-# WORK EXPERIENCE — fully Markdown functional
+# WORK EXPERIENCE
 # ===========================
 work:
   title: "Selected Experience"
@@ -136,8 +134,7 @@ work:
       date_end: 2022-05-21
       summary: >
         **[Peking Union Medical College Hospital](https://www.pumch.cn/en/introduction.html)**
-    
-    
+
 # ===========================
 # SKILLS
 # ===========================
@@ -175,9 +172,7 @@ awards:
     icon: hero/academic-cap
     summary: >
       Awarded competitive scholarship to present research at AIDS 2024.
-
 ---
 
-Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health. 
+Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
 Her research focuses on HIV prevention and treatment, structural determinants of health, population size estimation, and respondent-driven sampling methodology.
-
