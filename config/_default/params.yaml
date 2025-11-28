@@ -45,9 +45,13 @@ header:
       - name: Projects
         url: /projects/
 
-  # 🚨 MUST BE OUTSIDE navbar!
+  # Menu config (must be outside navbar)
   menus:
     main: []
+
+# Footer (disabled completely)
+footer:
+  enable: false
 
 # Localization
 locale:
