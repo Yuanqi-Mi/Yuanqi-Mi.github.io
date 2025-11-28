@@ -128,7 +128,7 @@ work:
     summary: >
       **[Peking Union Medical College Hospital](https://www.pumch.cn/en/introduction.html)**
     
-      Selected Experience
+      Above are selected experiences.
       
 # ===========================
 # SKILLS
@@ -172,10 +172,11 @@ awards:
 Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
 Her research focuses on HIV prevention and treatment, structural determinants of health, population size estimation, and respondent-driven sampling methodology.
 
-Find more: 
-• **Email:** [ymi3@jhu.edu](mailto:ymi3@jhu.edu)  
-• **GitHub:** [github.com/Yuanqi-Mi](https://github.com/Yuanqi-Mi)  
-• **LinkedIn:** [linkedin.com/in/yuanqi-mi](https://www.linkedin.com/in/yuanqi-mi-280914254/)  
-• **Google Scholar:** [Scholar Profile](https://scholar.google.com/citations?user=lphn6n8AAAAJ)  
-• **PubMed:** [Publication List](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)
+Find more:  
+• **[Email](mailto:ymi3@jhu.edu)**  
+• **[GitHub](https://github.com/Yuanqi-Mi)**  
+• **[LinkedIn](https://www.linkedin.com/in/yuanqi-mi-280914254/)**  
+• **[Google Scholar](https://scholar.google.com/citations?user=lphn6n8AAAAJ)**  
+• **[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)**
+
 
