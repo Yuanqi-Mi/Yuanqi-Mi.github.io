@@ -5,10 +5,9 @@ type: landing
 
 design:
   spacing: '6rem'
+---
 
 sections:
-
-  # 顶部简介 + CV 按钮
   - block: resume-biography-3
     content:
       username: admin
@@ -26,7 +25,6 @@ sections:
         size: medium
         shape: circle
 
-  # 我的研究
   - block: markdown
     content:
       title: 'My Research'
@@ -39,9 +37,9 @@ sections:
 
         ## Structural and social determinants of health
 
-        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
-          <img src="/housingplot.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
-          <div>
+        <div style="display:flex;align-items:flex-start;gap:24px;margin-bottom:2rem;">
+          <img src="/housingplot.tiff" style="width:220px;border-radius:8px;flex-shrink:0;">
+          <div style="flex:1;">
             <p><strong>Housing and HIV service delivery outcomes</strong><br>
             <a href="https://pubmed.ncbi.nlm.nih.gov/39817941/">PubMed</a></p>
 
@@ -53,11 +51,13 @@ sections:
           </div>
         </div>
 
+
         ## HIV prevention and treatment in China
 
-        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
-          <img src="/regimen.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
-          <div>
+        <div style="display:flex;align-items:flex-start;gap:24px;margin-bottom:2rem;">
+          <img src="/regimen.tiff" style="width:220px;border-radius:8px;flex-shrink:0;">
+          <div style="flex:1;">
+
             <p><strong>Regimen durability and modification</strong><br>
             <a href="https://pubmed.ncbi.nlm.nih.gov/41183094/">PubMed</a></p>
 
@@ -67,24 +67,29 @@ sections:
             <p><strong>Cost-effectiveness analysis of PrEP</strong><br>
             <a href="https://pubmed.ncbi.nlm.nih.gov/35801237/">PubMed</a></p>
 
-            <p><strong>ART: ainuovirine versus efavirenz</strong><br>
+            <p><strong>Cost-effectiveness analysis of ART</strong><br>
             <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/">Full text</a></p>
+
           </div>
         </div>
+
 
         ## Population size estimation of key populations
 
-        <div style="display:flex;align-items:flex-start;gap:16px;margin-bottom:1.5rem;">
-          <img src="/sspse.tiff" style="width:180px;border-radius:8px;flex-shrink:0;">
-          <div>
-            <p><strong>Population size estimation for</strong><br>
+        <div style="display:flex;align-items:flex-start;gap:24px;margin-bottom:2rem;">
+          <img src="/sspse.tiff" style="width:220px;border-radius:8px;flex-shrink:0;">
+
+          <div style="flex:1;">
+            <p><strong>Population size estimation for:</strong><br>
             <a href="https://www.theglobalfund.org/">The Global Fund</a><br>
-            <a href="https://mpactglobal.org/">MPact Global Action for Gay Men’s Health and Rights</a></p>
+            <a href="https://mpactglobal.org/">MPact Global Action</a></p>
 
             <p><strong>Creator of the open-source RDS/PSE visualization tool</strong><br>
-            <a href="https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/">REDCap RDS Tree Automata &amp; SS-PSE</a></p>
+            <a href="https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/">
+            REDCap RDS Tree Automata &amp; SS-PSE</a></p>
           </div>
         </div>
+
 
         My research involves collaborations with partners globally to strengthen infectious disease response, 
         improve data quality, and advance tools that support equitable resource allocation.  
@@ -95,7 +100,6 @@ sections:
     design:
       columns: '1'
 
-  # Publications
   - block: markdown
     content:
       title: "Publications"
@@ -132,7 +136,8 @@ sections:
         *Frontiers in Public Health.* 2022.  
         **[PubMed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.
 
----
+    design:
+      columns: '1'
 
 
 
