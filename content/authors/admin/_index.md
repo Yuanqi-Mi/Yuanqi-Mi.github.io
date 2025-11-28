@@ -71,17 +71,12 @@ interests:
 # ===========================
 education:
   - area: "ScM Epidemiology (Track: Infectious Disease Epidemiology)"
-    institution: "Johns Hopkins Bloomberg School of Public Health"
-    institution_url: "https://publichealth.jhu.edu"
     date_start: 2022-08-28
     date_end: 2024-05-17
     summary: >
-      **[Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu)**  
-      **[thesis](https://jscholarship.library.jhu.edu/items/24998ff1-0db5-4706-a443-3f9c1780390c)**
+      **[Master's thesis](https://jscholarship.library.jhu.edu/items/24998ff1-0db5-4706-a443-3f9c1780390c)**
 
   - area: "BS Nursing Science"
-    institution: "Peking Union Medical College"
-    institution_url: "https://www.pumc.edu.cn/"
     date_start: 2018-08-24
     date_end: 2022-06-30
     summary: >
@@ -176,3 +171,11 @@ awards:
 
 Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.  
 Her research focuses on HIV prevention and treatment, structural determinants of health, population size estimation, and respondent-driven sampling methodology.
+
+Find more: 
+• **Email:** [ymi3@jhu.edu](mailto:ymi3@jhu.edu)  
+• **GitHub:** [github.com/Yuanqi-Mi](https://github.com/Yuanqi-Mi)  
+• **LinkedIn:** [linkedin.com/in/yuanqi-mi](https://www.linkedin.com/in/yuanqi-mi-280914254/)  
+• **Google Scholar:** [Scholar Profile](https://scholar.google.com/citations?user=lphn6n8AAAAJ)  
+• **PubMed:** [Publication List](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)
+
