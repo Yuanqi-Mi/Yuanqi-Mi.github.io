@@ -1,7 +1,6 @@
 # SITE SETUP
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 appearance:
@@ -46,7 +45,9 @@ header:
       - name: Projects
         url: /projects/
 
-
+  # 🚨 MUST BE OUTSIDE navbar!
+  menus:
+    main: []
 
 # Localization
 locale:
@@ -60,8 +61,8 @@ features:
   privacy_pack:
     enable: false
 
-
 markup:
   goldmark:
     renderer:
       unsafe: true
+
