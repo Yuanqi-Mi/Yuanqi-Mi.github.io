@@ -112,10 +112,12 @@ skills:
 
 languages:
   - name: Chinese (native)
-
+    percent: 100
   - name: English (advanced)
-
+    percent: 95
   - name: French (beginner)
+    percent: 20
+
 
 
 awards:
