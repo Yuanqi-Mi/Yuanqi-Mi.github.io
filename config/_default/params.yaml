@@ -36,6 +36,16 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Yuanqi Mi 米元齐'
+    items:
+      - name: Bio
+        url: /authors/admin/
+      - name: Publications
+        url: /publications/
+      - name: Experience
+        url: /experience/
+      - name: Projects
+        url: /projects/
+
 
 
 # Localization
