@@ -7,6 +7,10 @@ design:
   spacing: '6rem'
 
 sections:
+
+  # =======================
+  #   1) HOME TOP AREA
+  # =======================
   - block: resume-biography-3
     content:
       username: admin
@@ -24,6 +28,10 @@ sections:
         size: medium
         shape: circle
 
+
+  # =======================
+  #   2) MY RESEARCH AREA
+  # =======================
   - block: markdown
     content:
       title: 'My Research'
@@ -32,23 +40,26 @@ sections:
         [Center for Public Health and Human Rights](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)  
         at the [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/).
 
-        My work focuses on:
-
-        ---
+        My work focuses on the following areas:
 
         ## Structural and social determinants of health
 
-        | <img src="/housingplot.tiff" width="160" style="border-radius:8px;"> | **Structural and social determinants of health**, including studies on  
-        [Housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),  
-        [State-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),  
-        [Sexual risk stratification](Abstract_WEPEC157_2024.pdf). |
+        | <img src="/housingplot.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
+        **Housing and HIV service delivery outcomes**  
+        [PubMed](https://pubmed.ncbi.nlm.nih.gov/39817941/)  
+
+        **State-level funding environments**  
+        [Poster PDF](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf)
+
+        **Sexual risk stratification**  
+        [Abstract PDF](Abstract_WEPEC157_2024.pdf) |
         | --- | --- |
 
-        ---
 
         ## HIV prevention and treatment in China
 
-        | <img src="/regimen.tiff" width="160" style="border-radius:8px;"> | **Regimen durability and modification**  
+        | <img src="/regimen.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
+        **Regimen durability and modification**  
         [PubMed](https://pubmed.ncbi.nlm.nih.gov/41183094/)  
 
         **Delayed treatment initiation**  
@@ -60,24 +71,17 @@ sections:
         [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/) |
         | --- | --- |
 
-        ---
 
-        ## Population size estimation
+        ## Population size estimation of key populations
 
-        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | **Population size estimation** of key populations for  
-        [The Global Fund](https://www.theglobalfund.org/),  
-        [MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
+        | <img src="/sspse.tiff" width="180" style="border-radius:8px; margin-right:16px;"> |  
+        **Population size estimation for**  
+        [The Global Fund](https://www.theglobalfund.org/)  
+        [MPact Global Action for Gay Men’s Health and Rights](https://mpactglobal.org/)  
+
+        **Creator of the open-source RDS/PSE visualization tool**  
+        [REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/) |
         | --- | --- |
-
-        ---
-
-        ## Open-source RDS & SS-PSE tools
-
-        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | Creator of the open-source population size estimation and RDS visualization tool:  
-        [REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/). |
-        | --- | --- |
-
-        ---
 
         My research involves collaborations with partners globally to strengthen infectious disease response, 
         improve data quality, and advance tools that support equitable resource allocation.  
@@ -88,6 +92,10 @@ sections:
     design:
       columns: '1'
 
+
+  # =======================
+  #   3) PUBLICATIONS
+  # =======================
   - block: markdown
     content:
       title: "Publications"
