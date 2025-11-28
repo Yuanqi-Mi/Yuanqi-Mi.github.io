@@ -1,23 +1,23 @@
 ---
-title: ''
+title: ""
 date: 2022-10-24
 type: landing
 
 design:
-  spacing: '6rem'
+  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
       username: admin
-      text: ''
+      text: ""
       button:
         text: Download CV
         url: resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: ""
+        education: ""
+        interests: ""
     design:
       css_class: hbx-bg-gradient
       avatar:
@@ -26,7 +26,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'My Research'
+      title: "My Research"
       text: |-
         I am a Research Data Analyst at the 
         [Center for Public Health and Human Rights](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)  
@@ -38,43 +38,28 @@ sections:
 
         ## Structural and social determinants of health
 
-        | <img src="/housingplot.tiff" width="160" style="border-radius:8px;"> | **Structural and social determinants of health**, including studies on  
-        [Housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),  
-        [State-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),  
-        [Sexual risk stratification](Abstract_WEPEC157_2024.pdf). |
+        | <img src="/housingplot.tiff" width="160" style="border-radius:8px;"> | including studies on<br>[Housing and HIV service delivery outcomes](https://pubmed.ncbi.nlm.nih.gov/39817941/),<br>[State-level funding environments](https://www.croiconference.org/wp-content/uploads/sites/2/posters/2024/1225.pdf),<br>[Sexual risk stratification](Abstract_WEPEC157_2024.pdf). |
         | --- | --- |
 
         ---
 
         ## HIV prevention and treatment in China
 
-        | <img src="/regimen.tiff" width="160" style="border-radius:8px;"> | **Regimen durability and modification**  
-        [PubMed](https://pubmed.ncbi.nlm.nih.gov/41183094/)  
-
-        **Delayed treatment initiation**  
-        [PubMed](https://pubmed.ncbi.nlm.nih.gov/37416802/)  
-
-        Cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/35801237/)  
-
-        **ART: ainuovirine versus efavirenz**  
-        [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/) |
+        | <img src="/regimen.tiff" width="160" style="border-radius:8px;"> | [Regimen durability and modification](https://pubmed.ncbi.nlm.nih.gov/41183094/),<br>[Delayed treatment initiation](https://pubmed.ncbi.nlm.nih.gov/37416802/),<br>Cost-effectiveness analysis of [PrEP](https://pubmed.ncbi.nlm.nih.gov/37416802/) and [ART](https://pmc.ncbi.nlm.nih.gov/articles/PMC12044665/). |
         | --- | --- |
 
         ---
 
         ## Population size estimation
 
-        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | **Population size estimation** of key populations for  
-        [The Global Fund](https://www.theglobalfund.org/),  
-        [MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
+        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | **Population size estimation** for<br>[The Global Fund](https://www.theglobalfund.org/),<br>[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
         | --- | --- |
 
         ---
 
         ## Open-source RDS & SS-PSE tools
 
-        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | Creator of the open-source population size estimation and RDS visualization tool:  
-        [REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/). |
+        | <img src="/sspse.tiff" width="160" style="border-radius:8px;"> | Creator of the open-source tool:<br>[REDCap RDS Tree Automata & SS-PSE](https://github.com/Yuanqi-Mi/REDCap-RDS-Tree-Automata-SSPSE-/). |
         | --- | --- |
 
         ---
@@ -86,14 +71,13 @@ sections:
         **Email:** [miyuanqi1123@gmail.com](mailto:miyuanqi1123@gmail.com)
 
     design:
-      columns: '1'
+      columns: "1"
 
   - block: markdown
     content:
       title: "Publications"
       text: |-
-        **Full list on PubMed:**  
-        https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/
+        **Full list:** [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/yuanqi.mi.1/bibliography/public/)
 
         My peer-reviewed research has been published in journals such as  
         **[Social Science & Medicine](https://pubmed.ncbi.nlm.nih.gov/39817941/)**,  
@@ -123,8 +107,6 @@ sections:
         **Cost-Effectiveness of PrEP Among Men Who Have Sex with Men in China.**  
         *Frontiers in Public Health.* 2022.  
         **[PubMed](https://pubmed.ncbi.nlm.nih.gov/35801237/)**.
-
 ---
-
 
 
