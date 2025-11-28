@@ -69,13 +69,17 @@ work:
     date_end: ""
     summary: >
       Managing and analyzing multi-country datasets across NIH-funded grants led by  
-      **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/1681/stefan-baral)** and  
+      **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
       **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.
 
-      Grants include:  
-      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/10566277)**  
-      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/10540953)**  
-      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/10454173)**  
+      Grants include:
+    
+      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/search/DnvWct3yvkOR--NUHvfs6w/project-details/11400278)**
+    
+      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/search/NSXiIf8PBEyF1gfc62xaPQ/project-details/11099988)**
+    
+      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/search/NSXiIf8PBEyF1gfc62xaPQ/project-details/11095741)**
+    
       • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
   - position: "Data Analyst"
