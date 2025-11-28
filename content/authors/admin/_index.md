@@ -68,22 +68,15 @@ work:
     date_start: 2024-07-19
     date_end: ""
     summary: >
-      Managing and analyzing multi-country datasets across NIH-funded grants led by
-      <a href="https://publichealth.jhu.edu/faculty/1681/stefan-baral" target="_blank">Dr. Stefan Baral</a>
-      and
-      <a href="https://publichealth.jhu.edu/faculty/4433/amrita-rao" target="_blank">Dr. Amrita Rao</a>, including:
+      Managing and analyzing multi-country datasets across NIH-funded grants led by  
+      **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/1681/stefan-baral)** and  
+      **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.
 
-      • Characterizing intersecting sexual, gender, and race-based stigmas in US transgender women and cisgender men who have sex with men  
-        (<a href="https://reporter.nih.gov/project-details/10566277" target="_blank">NIH RePORTER</a>)  
-
-      • Leveraging Big Data Science to focus the HIV response in countries with generalized HIV epidemics  
-        (<a href="https://reporter.nih.gov/project-details/10540953" target="_blank">NIH RePORTER</a>)  
-
-      • Integrating visualization and stigma analytics to support the Ending the HIV Epidemic initiative  
-        (<a href="https://reporter.nih.gov/project-details/10454173" target="_blank">NIH RePORTER</a>)  
-
-      • Policy and implementation context of an unconditional cash transfer program for marginalized youth  
-        (<a href="https://reporter.nih.gov/project-details/10975984" target="_blank">NIH RePORTER</a>)
+      Grants include:  
+      • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/10566277)**  
+      • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/10540953)**  
+      • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/10454173)**  
+      • **[Unconditional cash transfer program for marginalized youth](https://reporter.nih.gov/project-details/10975984)**
 
   - position: "Data Analyst"
     company_name: "MPact Global Action for Gay Men's Health and Rights"
@@ -98,28 +91,28 @@ skills:
   - name: Data Analysis & Tools
     items:
       - name: R (tidyverse, survey, RDS, shiny)
-        percent: 95
+
       - name: Python (pandas, numpy, scikit-learn)
-        percent: 90
+
       - name: STATA / SPSS / SAS / ArcGIS
-        percent: 85
+
 
   - name: Global Health & Epidemiology
     items:
       - name: HIV Epidemiology
-        percent: 95
+
       - name: RDS & Population Size Estimation
-        percent: 90
+
       - name: Survey Design & Implementation
-        percent: 85
+
 
 languages:
   - name: Chinese (native)
-    percent: 100
+
   - name: English (advanced)
-    percent: 95
+
   - name: French (beginner)
-    percent: 20
+
 
 awards:
   - title: "Scholarship Recipient"
@@ -133,5 +126,6 @@ awards:
 Yuanqi Mi is a Research Data Analyst at the Johns Hopkins Bloomberg School of Public Health.
 Her research focuses on HIV prevention and treatment, structural determinants of health,
 population size estimation, and respondent-driven sampling methodology.
+
 
 
