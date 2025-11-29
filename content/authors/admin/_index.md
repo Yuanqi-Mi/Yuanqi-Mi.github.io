@@ -93,11 +93,13 @@ work:
       **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
       
       Population size estimations of female sex workers, men who have sex with men, transgender women, and people who inject drugs
+    
       Managing and analyzing multi-country datasets across NIH-funded grants led by  
       **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
       **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
       
-      Grants include:  
+      Grants include:
+    
       • **[Characterizing intersecting sexual, gender, and race-based stigmas](https://reporter.nih.gov/project-details/11400278)**  
       • **[Leveraging Big Data Science to focus HIV response in generalized epidemics](https://reporter.nih.gov/project-details/11099988)**  
       • **[Integrating visualization and stigma analytics for the Ending the HIV Epidemic initiative](https://reporter.nih.gov/project-details/11095741)**  
