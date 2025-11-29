@@ -50,9 +50,9 @@ sections:
 
         ---
 
-        ## Population size estimation of hidden populations-female sex workers, men who have sex with men, transgender women, and people who inject drugs
+        ## Population size estimation of hidden populations
 
-        | <img src="/sspse.png" width="160" style="border-radius:8px;"> | **Population size estimation** for<br>[The Global Fund](https://www.theglobalfund.org/),<br>[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
+        | <img src="/sspse.png" width="160" style="border-radius:8px;"> | **Population size estimation of female sex workers, men who have sex with men, transgender women, and people who inject drugs** for<br>[The Global Fund](https://www.theglobalfund.org/),<br>[MPact Global Action for Gay Men's Health and Rights](https://mpactglobal.org/). |
         | --- | --- |
 
         ---
