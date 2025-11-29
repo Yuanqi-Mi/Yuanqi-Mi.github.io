@@ -92,9 +92,8 @@ work:
     summary: >
       **[Center for Public Health and Human Rights, Johns Hopkins University](https://publichealth.jhu.edu/center-for-public-health-and-human-rights)**  
       
-      Population size estimations of female sex workers, men who have sex with men, transgender women, and people who inject drugs
-    
-      Managing and analyzing multi-country datasets across NIH-funded grants led by  
+      Population size estimations of female sex workers, men who have sex with men, transgender women, and people who inject drugs;
+      managing and analyzing multi-country datasets across NIH-funded grants led by  
       **[Dr. Stefan Baral](https://publichealth.jhu.edu/faculty/2433/stefan-baral)** and  
       **[Dr. Amrita Rao](https://publichealth.jhu.edu/faculty/4433/amrita-rao)**.  
       
